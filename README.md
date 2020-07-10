@@ -1,2 +1,1 @@
-# Basic website 
- Only the raw form 
+#Just Trying to be a web developer 
